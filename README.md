@@ -401,7 +401,3 @@ Full-Stack Developer
 ---
 
 If you find this project useful, consider giving the repository a ⭐.
-
----
-
-If you find this project useful, consider giving the repository a ⭐.
